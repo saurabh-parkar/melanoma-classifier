@@ -1,1 +1,1 @@
-# melanoma-classifier
+# Histology2Genotype
